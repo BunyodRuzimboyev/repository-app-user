@@ -1,8 +1,8 @@
 package uz.myproduct.appuser.controller;
 
 import org.springframework.web.bind.annotation.*;
-import uz.bepro.apphomeworklesson1.model.User;
-import uz.bepro.apphomeworklesson1.service.UserServiceImpl;
+import uz.myproduct.appuser.model.User;
+import uz.myproduct.appuser.service.UserServiceImpl;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
 package uz.myproduct.appuser.service;
 
 import org.springframework.stereotype.Service;
-import uz.bepro.apphomeworklesson1.model.User;
+import uz.myproduct.appuser.model.User;
 
 import java.util.ArrayList;
 import java.util.List;
